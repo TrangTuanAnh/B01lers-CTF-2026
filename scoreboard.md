@@ -11,13 +11,7 @@
 ## Category breakdown (relative)
 
 ```
-crypto  ███████░░
-jail    ██░░░░░░░
-misc    ███░░░░░░
-osint   ░░░░░░░░░
-pwn     █████████
-rev     ████████░
-web     █████████
+![1777273577954](image/scoreboard/1777273577954.png)
 ```
 
 > Web và rev là 2 hướng nặng kí nhất của team.

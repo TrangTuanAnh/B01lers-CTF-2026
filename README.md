@@ -24,9 +24,9 @@ Mỗi folder có:
 
 ```
 <challenge>/
-├── README.md       ← writeup chi tiết
-├── solve.py        ← exploit script đầy đủ, chạy được
-├── challenge/      ← source code đề
+├── README.md       --> writeup chi tiết
+├── solve.py        --> exploit script đầy đủ, chạy được
+├── challenge/      --> source code đề
 └── screenshots/
 ```
 
