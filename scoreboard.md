@@ -10,8 +10,10 @@
 
 ## Category breakdown (relative)
 
-```
-![1777273577954](image/scoreboard/1777273577954.png)
-```
+![Category breakdown radar chart](image/scoreboard/1777273577954.png)
 
 > Web và rev là 2 hướng nặng kí nhất của team.
+
+## Team card
+
+![UIT-creampie team card](image/scoreboard/1777275781000.png)
